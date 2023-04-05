@@ -1,5 +1,4 @@
 # trend_forecast
-Trend Tracker
 This is a simple Python program that uses the Google Trends API to track the popularity of a particular search term over time. This program can be used to track the popularity of any trend over time, which can provide some insight into whether it's gaining or losing momentum.
 
 Getting Started
